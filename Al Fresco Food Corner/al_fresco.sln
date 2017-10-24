@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "al_fresco", "al_fresco\", "{C203EB81-DF83-4E7E-BDB5-DD40ACB98208}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/al_fresco"
+		Debug.AspNetCompiler.PhysicalPath = "al_fresco\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\al_fresco\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/al_fresco"
+		Release.AspNetCompiler.PhysicalPath = "al_fresco\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\al_fresco\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "8957"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C203EB81-DF83-4E7E-BDB5-DD40ACB98208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C203EB81-DF83-4E7E-BDB5-DD40ACB98208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
